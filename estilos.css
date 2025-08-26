@@ -32,3 +32,7 @@ input[type="checkbox"]:focus {
   background-position: center;
   background-attachment: fixed;      /*IMAGEM FIXA AO ROLAR A PÁGINA */
 }
+
+.banners-titulo{
+  --bs-bg-opacity: .2;    /*OPACIDADE DE 0 A 5  -- = var CSS bs = bootstrap bg = background */
+}
