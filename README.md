@@ -1,4 +1,4 @@
-Coffee Shop (Frontend)
+### Coffee Shop (Frontend)
 
 Responsive web interface simulating an online coffee store, focused on layout structure and user experience.
 
